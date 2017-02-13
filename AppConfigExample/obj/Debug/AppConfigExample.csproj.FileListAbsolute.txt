@@ -1,0 +1,2 @@
+C:\Programming\githowie\MSNET\AppConfigExample1\AppConfigExample\AppConfigExample\bin\Debug\AppConfigExample.exe.config
+C:\Programming\githowie\MSNET\AppConfigExample\AppConfigExample\bin\Debug\AppConfigExample.exe.config
